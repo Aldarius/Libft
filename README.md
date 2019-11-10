@@ -1,2 +1,2 @@
 # libft
-Useful functions (no)
+The first projects of "School 21". Featured function from the Standard Library.
